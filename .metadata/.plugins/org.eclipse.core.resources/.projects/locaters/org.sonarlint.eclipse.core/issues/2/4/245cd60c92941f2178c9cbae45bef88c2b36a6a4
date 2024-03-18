@@ -1,0 +1,9 @@
+
+b
+java:S1197
+"*Move the array designators [] to the type.(¡şÏÖøÿÿÿÿ8œØ”à/H¥$RMINORZ
+CODE_SMELL
+s	java:S125"<This block of commented-out lines of code should be removed.(’÷áÿÿÿÿÿ8 ó±à/H¨$RMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(³ğ¸ûÿÿÿÿ8°¡­à/Hª$RMAJORZ
+CODE_SMELL

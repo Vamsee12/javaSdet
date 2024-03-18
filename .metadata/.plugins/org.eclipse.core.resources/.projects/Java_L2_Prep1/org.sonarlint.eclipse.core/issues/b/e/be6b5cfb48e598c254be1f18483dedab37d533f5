@@ -1,0 +1,19 @@
+
+k	java:S106"9Replace this use of System.out or System.err by a logger.(×•œ²8½¹ú“‡1H)RMAJORZ
+CODE_SMELL
+p	java:S106""9Replace this use of System.out or System.err by a logger.(‹µ‹¶ıÿÿÿÿ8…õ…”‡1H¡)RMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(×•œ²8½¹ú“‡1H )RMAJORZ
+CODE_SMELL
+x	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ò”İH)RMINORZ
+CODE_SMELL
+I
+java:S2252!"This loop will never execute.(²ø¾8ÿû£”‡1H¤)RMAJORZBUG
+p	java:S106$"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8Œ¿ˆ”‡1H¢)RMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(‹µ‹¶ıÿÿÿÿ8½¹ú“‡1HŸ)RMAJORZ
+CODE_SMELL
+e
+java:S2251!"9"k" is decremented and will never reach "stop condition".(²ø¾8ô¥”‡1H¥)RMAJORZBUG
+P
+java:S2189!""Correct this loop's end condition.(²ø¾8ô¥”‡1H¦)RBLOCKERZBUG

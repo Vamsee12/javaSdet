@@ -1,0 +1,19 @@
+
+k
+java:S2696"6Make the enclosing method "static" or remove this set.(ñê¢|8î°¬ñû0HÊ&RCRITICALZ
+CODE_SMELL
+v
+java:S1659">Declare "b" and all following declarations on a separate line.(¹Ôıöşÿÿÿÿ8î°¬ñû0HÄ&RMINORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(‹„áœ8î°¬ñû0HË&RMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(åÛıÓüÿÿÿÿ8î°¬ñû0HÈ&RMAJORZ
+CODE_SMELL
+q
+java:S2696"6Make the enclosing method "static" or remove this set.(„€—¿üÿÿÿÿ8î°¬ñû0HÍ&RCRITICALZ
+CODE_SMELL
+q
+java:S2696"6Make the enclosing method "static" or remove this set.(­ÛúÒûÿÿÿÿ8î°¬ñû0HÌ&RCRITICALZ
+CODE_SMELL
+Š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ô¢ÔøÿÿÿÿHÃ&RMINORZ
+CODE_SMELL

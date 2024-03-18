@@ -1,0 +1,9 @@
+package Control_Statements_1;
+
+public class Printing_7_table {
+
+	public static void main(String[] args) {
+		
+	}
+
+}

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete resource &apos;selenium_locators&apos;" deleteContents="true" description="Delete resource &apos;selenium_locators&apos;" element1="/selenium_locators" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1640702998009"/>
+</session>

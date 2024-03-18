@@ -1,0 +1,10 @@
+
+M
+java:S1659	"!Declare "rem" on a separate line.(Ôú¬âH'RMINORZ
+CODE_SMELL
+i	java:S106"9Replace this use of System.out or System.err by a logger.(ÔŠ†œùÿÿÿÿH 'RMAJORZ
+CODE_SMELL
+i	java:S106"9Replace this use of System.out or System.err by a logger.(‡å™ÆøÿÿÿÿH¡'RMAJORZ
+CODE_SMELL
+Š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ô¢ÔøÿÿÿÿH¢'RMINORZ
+CODE_SMELL

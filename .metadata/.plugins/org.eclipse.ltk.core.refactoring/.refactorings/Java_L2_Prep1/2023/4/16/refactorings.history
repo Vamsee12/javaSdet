@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;Control_Statements_1.Printing_7_table&apos; to &apos;PrintingTables&apos;&#x0D;&#x0A;- Original project: &apos;Java_L2_Prep1&apos;&#x0D;&#x0A;- Original element: &apos;Control_Statements_1.Printing_7_table&apos;&#x0D;&#x0A;- Renamed element: &apos;Control_Statements_1.PrintingTables&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Printing_7_table&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;Control_Statements_1{Printing_7_table.java[Printing_7_table" matchStrategy="1" name="PrintingTables" qualified="false" references="true" similarDeclarations="false" stamp="1681913912821" textual="false" version="1.0"/>
+</session>

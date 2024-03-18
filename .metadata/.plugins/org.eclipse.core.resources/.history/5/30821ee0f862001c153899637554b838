@@ -1,0 +1,26 @@
+package com.epam.testng;
+
+import org.testng.annotations.Test;
+
+public class PriorityEnabledDemo {
+	
+	@Test
+	void testOne() {
+		System.out.println("Test1");
+	}
+	
+	@Test
+	void testTwo() {
+		System.out.println("Test2");
+	}
+
+	@Test
+	void testThree() {
+		System.out.println("Test3");
+	}
+	
+	@Test
+	void testFour() {
+		System.out.println("Test4");
+	}
+}

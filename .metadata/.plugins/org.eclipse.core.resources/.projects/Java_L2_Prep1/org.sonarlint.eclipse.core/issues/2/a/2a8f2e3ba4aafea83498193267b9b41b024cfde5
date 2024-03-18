@@ -1,0 +1,15 @@
+
+b
+java:S1481"/Remove this unused "palindrome" local variable.(ÃÎÎ¯8£æ¿—ü0Hˆ'RMINORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(Ó‡ÇŞüÿÿÿÿ8Æ´¡—ü0Hí&RMAJORZ
+CODE_SMELL
+Š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ô¢ÔøÿÿÿÿHå&RMINORZ
+CODE_SMELL
+s
+java:S1659"@Declare "rem" and all following declarations on a separate line.(ÃÎÎ¯8Æ´¡—ü0Hé&RMINORZ
+CODE_SMELL
+p	java:S106	"9Replace this use of System.out or System.err by a logger.(™Ÿ›øÿÿÿÿ8€ú§—ü0Hü&RMAJORZ
+CODE_SMELL
+j	java:S106"9Replace this use of System.out or System.err by a logger.(ªáp8‹®Â—ü0H‘'RMAJORZ
+CODE_SMELL

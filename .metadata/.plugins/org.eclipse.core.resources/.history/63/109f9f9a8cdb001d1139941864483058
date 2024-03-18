@@ -1,0 +1,21 @@
+package Control_Statements_1;
+
+public class GreaterOfThree {
+	public static void main(String[] args) {
+		float a=10.35f;
+		float b=5.75f;
+		float c=12.52f;
+		if(a>b && a>c)
+		{
+			System.out.println("The graeterNo is : "+a);
+		}
+		else if(b>a && b>c) {
+			System.out.println("The graeterNo is : "+b);
+		}
+		else
+		{
+			System.out.println("The graeterNo is : "+c);
+		}
+	}
+
+}

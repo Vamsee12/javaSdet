@@ -1,0 +1,10 @@
+
+p	java:S106"9Replace this use of System.out or System.err by a logger.(”„ßÿÿÿÿÿ8†•ˆ£Ø1H+RMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(Àåêıÿÿÿÿ8†•ˆ£Ø1H‚+RMAJORZ
+CODE_SMELL
+j
+java:S1610"7Convert the abstract class "Vehicle" into an interface.(­Ï›»8†•ˆ£Ø1H€+RMINORZ
+CODE_SMELL
+x	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(°Ú¿ßHÿ*RMINORZ
+CODE_SMELL

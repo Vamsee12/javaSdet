@@ -1,0 +1,13 @@
+
+a
+java:S1172"/Remove these unused method parameters "a", "b".(Æ÷õj8÷´¹‚Ö1Hñ*RMAJORZ
+CODE_SMELL
+}	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Éú˜ÞúÿÿÿÿHõ*RMINORZ
+CODE_SMELL
+a
+java:S1172"/Remove these unused method parameters "a", "b".(»—Ö8÷´¹‚Ö1Hö*RMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(ÀÏÉÅ8÷´¹‚Ö1Hú*RMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(ÒûäÆùÿÿÿÿ8÷´¹‚Ö1Hû*RMAJORZ
+CODE_SMELL

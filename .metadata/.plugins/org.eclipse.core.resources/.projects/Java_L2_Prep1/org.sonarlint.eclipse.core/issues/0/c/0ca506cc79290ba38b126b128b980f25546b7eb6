@@ -1,0 +1,23 @@
+
+k	java:S106"9Replace this use of System.out or System.err by a logger.(§›´‘8Öåã™ü0H„(RMAJORZ
+CODE_SMELL
+a
+java:S1481
+".Remove this unused "armstrong" local variable.(êôÛ8ıŒª™ü0H»'RMINORZ
+CODE_SMELL
+p	java:S106*"9Replace this use of System.out or System.err by a logger.(Äµ±âøÿÿÿÿ8Öåã™ü0Hƒ(RMAJORZ
+CODE_SMELL
+p	java:S106-"9Replace this use of System.out or System.err by a logger.(÷´ÿ«ıÿÿÿÿ8ıŒª™ü0H¾'RMAJORZ
+CODE_SMELL
+[
+java:S1481
+"(Remove this unused "rev" local variable.(êôÛ8ıŒª™ü0H¸'RMINORZ
+CODE_SMELL
+Š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ô¢ÔøÿÿÿÿH'RMINORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(Ùïö§ÿÿÿÿÿ8ıŒª™ü0H½'RMAJORZ
+CODE_SMELL
+s
+java:S1659
+"@Declare "rem" and all following declarations on a separate line.(êôÛ8ıŒª™ü0H´'RMINORZ
+CODE_SMELL

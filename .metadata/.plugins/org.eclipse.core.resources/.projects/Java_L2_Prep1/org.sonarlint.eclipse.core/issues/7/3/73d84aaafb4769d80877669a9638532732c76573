@@ -1,0 +1,9 @@
+
+i	java:S106"9Replace this use of System.out or System.err by a logger.(’¯²çüÿÿÿÿH°*RMAJORZ
+CODE_SMELL
+w	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(õ™ƒXH±*RMINORZ
+CODE_SMELL
+d	java:S106"9Replace this use of System.out or System.err by a logger.(€°Ã¿H¯*RMAJORZ
+CODE_SMELL
+d	java:S106"9Replace this use of System.out or System.err by a logger.(®¶ŠâH®*RMAJORZ
+CODE_SMELL
